@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riuygates
-- 👀 I’m interested to improve my Coding skills.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested to improve my coding skills.
+- 🌱 I’m currently on college, studying computer science and learning C.
 - 📫 How to reach me : yuri_toniolli@hotmail.com
 
 <!---
